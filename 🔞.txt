@@ -1,0 +1,346 @@
+PLAYBOY,P2p://ns2.hellotvvod.com:9906/1c23371ae43d4ccab637a0ae5d08af5b
+PLAYBOY,mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
+JStar极限台,P2p://ns2.hellotvvod.com:9906/7f05bb13ae114cfebc1b79df6681b0ef
+JStar极限台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
+JStar极限台,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+JStar极限台,ns2.hellotvvod.com:9906/c2b97a1c702f4192aec0fb17ca025b1f
+彩虹e,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
+彩虹e,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057t
+彩虹e,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
+彩虹e,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
+彩虹e,P2p://ns2.hellotvvod.com:9906/bd7382c76b88433d8722c26f67363e6b
+彩虹电影,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
+彩虹电影,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
+彩虹电影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4
+彩虹电影,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
+彩虹电影,P2p://ns2.hellotvvod.com:9906/e0edd767a136470b8200e6e5c03900e8
+K频道,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f
+K频道,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
+K频道,P2p://ns2.hellotvvod.com:9906/a7a0b10d12ed4c49bb824983f506b91a
+K频道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
+LOOK,p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
+LOOK,mitv://45.92.126.18:9906/6260e2e2000f16e6172d608b5505fbdd
+LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
+LOOK,P2p://ns2.hellotvvod.com:9906/e1abfbd511284620a5a8f38bd138f45f
+惊艳台,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
+惊艳台,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
+惊艳台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
+惊艳台,P2p://ns2.hellotvvod.com:9906/19233616c0a54a0a842a055fc8a27606
+潘朵啦玩美,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
+潘朵啦玩美,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
+潘朵啦玩美,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
+潘朵啦玩美,P2p://ns2.hellotvvod.com:9906/233e084e1bc3498d97c0c588bc693491
+松视1,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
+松视1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
+松视1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
+松视1,P2p://ns2.hellotvvod.com:9906/5c86b6d2e41a4b33949bc3253bd3659a
+松视2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
+松视2,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
+松视2,P2p://ns2.hellotvvod.com:9906/5da64f1f405840f39749725323546c8d
+松视3,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
+松视3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
+松视3,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
+松视3,P2p://ns2.hellotvvod.com:9906/c52b7d4217bb411a855a0a1372a7840a
+松视4,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/480
+松视4,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
+HOT,p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
+HOT,mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6
+Happy,P2p://ns2.hellotvvod.com:9906/5bc6b29a6e6d454b8fa592aea83222d5
+Happy,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7aa1d66
+Happy,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
+Happy,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
+香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
+香蕉台,mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
+香蕉台,P2p://ns2.hellotvvod.com:9906/3a68ef5eb4444efdb58362ff97686789
+歐美二,mitv://fccs.word-tv.com:9906/62c7c8780004d2ba0adcea1fd011de8e
+歐美三,mitv://fccs.word-tv.com:9906/62c7c8cb0008dcf50ade2f602a0f4a7b
+澳視一,mitv://fccs.word-tv.com:9906/62ea99570009fc180029e3ef7f16b1cc
+澳視二,mitv://fccs.word-tv.com:9906/62ea998700001707002a9ce6304bb302
+香草天道,mitv://fccs.word-tv.com:9906/626b730a000f13ab0c686433a4aa22a5
+性愛教主,mitv://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
+ＶＥＮＵＳ,mitv://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
+做愛特教班,mitv://fccs.word-tv.com:9906/626b7343000190970c693f6577f8facb
+奶奶按摩店,mitv://fccs.word-tv.com:9906/626b73510008edf70c6977f8aa9df6c2
+AV女王,mitv://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
+人妻不倫,mitv://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
+水多多,mitv://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
+近親相姦,mitv://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
+彩虹通道,mitv://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
+KMP 頻道,mitv://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
+午夜蓝,mitv://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
+櫻桃,mitv://fccs.word-tv.com:9906/626b7434000c38c40c6cef87e3079c78
+大學女援交妹,mitv://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
+做愛輸入,mitv://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e0110
+Dorcel,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/245/index.m3u8
+RedLight,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/242/index.m3u8
+Hustler,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/244/index.m3u8
+21 Sextury,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6164/index.m3u8
+Vivid Red,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/2162/index.m3u8
+Penthouse Gold,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/5011/index.m3u8
+Penthouse Quicker,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/5012/index.m3u8
+Babes tv,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6172/index.m3u8
+Bang Bros,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6173/index.m3u8
+Brazzers.com,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6181/index.m3u8
+Brazzers,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6182/index.m3u8
+Digital Playground,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6196/index.m3u8
+Fake Taxi,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6202/index.m3u8
+JAV,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6225/index.m3u8
+Naughty America,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6237/index.m3u8
+Nubile,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6238/index.m3u8
+Reality King,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6249/index.m3u8
+Wicked,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6268/index.m3u8
+XY Max,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6286/index.m3u8
+XY Mix,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6287/index.m3u8
+XY Plus,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6288/index.m3u8
+Brazzers Europe,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/910/index.m3u8
+Private,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/243/index.m3u8
+Russia,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/147/index.m3u8
+PrivaTe,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6245/index.m3u8
+Dorcrl Club,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6197/index.m3u8
+Blacked,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6178/index.m3u8
+ALBA XXX1,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12105/index.m3u8
+ALBA XXX2,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12107/index.m3u8
+Mommy,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12155/index.m3u8
+France Lover,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12124/index.m3u8
+Pure Babes,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12112/index.m3u8
+KinoXXX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11052/index.m3u8
+OX-AX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11068/index.m3u8
+幻灯片电影,p2p://594.39.16.152:9906/6260e2b000004933172c99712568d815
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+俄罗斯成人2台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+欧美5[1280*720],http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+俄罗斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+欧美8[1280*720],http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+k频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+俄罗斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+欧美12[1280*720],http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+欧美2[1280*720],http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+Adult IPTV (18+),http://cdn.adultiptv.net/bigass.m3u8
+限制级电影,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+俄罗斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+俄罗斯成人2台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+俄罗斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+k频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+Adult IPTV (18+),http://cdn.adultiptv.net/bigass.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+限制级电影,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+极限电影,https://nginx1.cmsiptv.xyz/hls/jixian/index.m3u8
+IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+IBizaHDTV,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+IBizaHDTV,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+Biza Media,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+XXX : CONNECT XXX,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126172
+XXX : CONNECT XXX 1,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126173
+XXX : CONNECT XXX 2,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126174
+XXX : CONNECT XXX 3,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126175
+XXX : CONNECT XXX 4,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126176
+XXX : CONNECT XXX 5,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126177
+XXX : CONNECT XXX 6,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126178
+XXX : CONNECT XXX 7,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/126179
+欧1,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+欧1,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+EROX,http://94.229.250.73:8008/play/a002
+Eroxxxhd,http://94.229.250.73:8008/play/a002
+XXL,http://85.14.32.15:8801/udp/224.100.1.151:56000
+欧美2[1280*720],http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+欧美5[1280*720],http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+欧美7[1280*720],http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+欧美8[1280*720],http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+欧美9[1280*720],http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+欧美12[1280*720],http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+MyCamTV Teen Girls ,http://live.mycamtv.com/teen.m3u8
+MyCamTV MILF,http://live.mycamtv.com/milf.m3u8
+MyCamTV Young Girls,http://live.mycamtv.com/young.m3u8
+MyCamTV Mature,http://live.mycamtv.com/bigtits.m3u8
+MyCamTV Arab Girls,http://live.mycamtv.com/arab.m3u8
+MyCamTV Ebony Girls,http://live.mycamtv.com/ebony.m3u8
+MyCamTV Asian Girls,http://live.mycamtv.com/asian.m3u8
+MyCamTV Brunette Girls,http://live.mycamtv.com/brunette.m3u8
+MyCamTV Latina Girls,http://live.mycamtv.com/latina.m3u8
+MyCamTV White Girls,http://live.mycamtv.com/white.m3u8
+MyCamTV Blonde Girls,http://live.mycamtv.com/blonde.m3u8
+MyCamTV Anal,http://live.mycamtv.com/anal.m3u8
+MyCamTV Big Ass Girls,http://live.mycamtv.com/bigass.m3u8
+MyCamTV Girls Squirt,http://live.mycamtv.com/squirt.m3u8
+MyCamTV Big Tits Girls,http://live.mycamtv.com/bigtits.m3u8
+MyCamTV Skinny Girls,http://live.mycamtv.com/skinny.m3u8
+MyCamTV Medium Girls,http://live.mycamtv.com/medium.m3u8
+MyCamTV Blowjob,http://live.mycamtv.com/blowjob.m3u8
+三亚,http://36.101.7.98:554/udp/239.253.64.119:5140
+jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
+Evil Angel,http://212.18.115.193:3169/play/ftv/index.m3u8
+Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
+Pinko Club,http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
+Pinko Club,http://93.152.174.144:4000/play/pinkotv/index.m3u8
+PinkErotic 1,http://54.36.123.36:8080/PinkErotic1/index.m3u8
+PinkErotic 2,http://54.36.123.36:8080/PinkErotic2/index.m3u8
+PinkErotic 3,http://54.36.123.36:8080/PinkErotic3/index.m3u8
+PinkErotic 3,http://195.154.185.179/xx_hot_tv/index.m3u8
+PinkErotic 4,http://54.36.123.36:8080/PinkErotic4/index.m3u8
+PinkErotic 4,http://195.154.185.179/xx_venus_tv/index.m3u8
+PinkErotic 5,http://54.36.123.36:8080/PinkErotic5/index.m3u8
+PinkErotic 6,http://54.36.123.36:8080/PinkErotic6/index.m3u8
+PinkErotic 7,http://54.36.123.36:8080/PinkErotic7/index.m3u8
+PinkErotic 8,http://54.36.123.36:8080/PinkErotic8/index.m3u8
+Eropuls DE,https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+Erox HD,http://94.229.250.73:8008/play/a002
+Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Miami TV Latino,https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+Miami TV México,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+Miami TV Jenny For You,https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+Redlight HD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
+Redlight HD,http://109.200.130.123:7032/play/353
+Visit-X TV,https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+Vivid Red HD,http://109.200.130.123:7032/play/a00g
+MyCamTV Anal,http://live.mycamtv.com/anal.m3u8
+MyCamTV Arab Girls,http://live.mycamtv.com/arab.m3u8
+MyCamTV Asian Girls,http://live.mycamtv.com/asian.m3u8
+MyCamTV Big Ass Girls,http://live.mycamtv.com/bigass.m3u8
+MyCamTV Blonde Girls,http://live.mycamtv.com/blonde.m3u8
+MyCamTV Blowjob,http://live.mycamtv.com/blowjob.m3u8
+MyCamTV Brunette Girls,http://live.mycamtv.com/brunette.m3u8
+MyCamTV Ebony Girls,http://live.mycamtv.com/ebony.m3u8
+MyCamTV Girls Squirt,http://live.mycamtv.com/squirt.m3u8
+MyCamTV Latina Girls,http://live.mycamtv.com/latina.m3u8
+MyCamTV Mature,http://live.mycamtv.com/bigtits.m3u8
+MyCamTV Medium Girls,http://live.mycamtv.com/medium.m3u8
+MyCamTV MILF,http://live.mycamtv.com/milf.m3u8
+MyCamTV Skinny Girls,http://live.mycamtv.com/skinny.m3u8
+MyCamTV Teen Girls,http://live.mycamtv.com/teen.m3u8
+MyCamTV White Girls,http://live.mycamtv.com/white.m3u8
+MyCamTV Young Girls,http://live.mycamtv.com/young.m3u8
+Extasy 4K,http://213.81.133.133:8080/extasy4k/index.m3u8
+Exstasy HD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+Hustler TV,http://78.83.191.18:8000/play/a078
+Anal,http://live.redtraffic.xyz/anal.m3u8
+Anal,http://cdn.adultiptv.net/anal.m3u8
+Asian,http://live.redtraffic.xyz/asian.m3u8
+Asian,http://cdn.adultiptv.net/asian.m3u8
+Big Ass,http://live.redtraffic.xyz/bigass.m3u8
+Big Ass,http://cdn.adultiptv.net/bigass.m3u8
+Big Ass,http://live.redtraffic.xyz:80/bigass.m3u8
+Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
+Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
+Big Dick,http://live.redtraffic.xyz:80/bigdick.m3u8
+Big Dick,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
+Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
+Big Tits,http://live.redtraffic.xyz:80/bigtits.m3u8
+Blonde,http://live.redtraffic.xyz/blonde.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
+Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
+Blowjob,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+Blowjob,http://live.redtraffic.xyz:80/blowjob.m3u8
+Brunette,http://live.redtraffic.xyz/brunette.m3u8
+Brunette,http://cdn.adultiptv.net/brunette.m3u8
+Compilation,http://live.redtraffic.xyz/compilation.m3u8
+Compilation,http://cdn.adultiptv.net/compilation.m3u8
+Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
+Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
+Cuckold,http://live.redtraffic.xyz:80/cuckold.m3u8
+Fetish,http://live.redtraffic.xyz/fetish.m3u8
+Fetish,http://cdn.adultiptv.net/fetish.m3u8
+Fetish,http://live.redtraffic.xyz:80/fetish.m3u8
+Fetish,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+Gangbang,http://live.redtraffic.xyz/gangbang.m3u8
+Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
+Gay,http://live.redtraffic.xyz/gay.m3u8
+Gay,http://cdn.adultiptv.net/gay.m3u8
+HardCore,http://live.redtraffic.xyz/hardcore.m3u8
+HardCore,http://cdn.adultiptv.net/hardcore.m3u8
+HardCore,http://live.redtraffic.xyz:80/hardcore.m3u8
+Interracial,http://live.redtraffic.xyz/interracial.m3u8
+Interracial,http://cdn.adultiptv.net/interracial.m3u8
+Interracial,http://live.redtraffic.xyz:80/interracial.m3u8
+Latina,http://live.redtraffic.xyz/latina.m3u8
+Latina,http://cdn.adultiptv.net/latina.m3u8
+Latina,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+Live Cams,http://live.redtraffic.xyz/livecams.m3u8
+Live Cams,http://cdn.adultiptv.net/livecams.m3u8
+MILF,http://live.redtraffic.xyz/milf.m3u8
+MILF,http://cdn.adultiptv.net/milf.m3u8
+MILF,http://live.redtraffic.xyz:80/milf.m3u8
+Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
+Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
+Pornstar,http://live.redtraffic.xyz:80/pornstar.m3u8
+POV,http://live.redtraffic.xyz/pov.m3u8
+POV,http://cdn.adultiptv.net/pov.m3u8
+POV,http://live.redtraffic.xyz:80/pov.m3u8
+POV,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+Rough,http://live.redtraffic.xyz/rough.m3u8
+Rough,http://cdn.adultiptv.net/rough.m3u8
+Russian,http://live.redtraffic.xyz/russian.m3u8
+Russian,http://cdn.adultiptv.net/russian.m3u8
+Russian,http://live.redtraffic.xyz:80/russian.m3u8
+Teen,http://live.redtraffic.xyz/teen.m3u8
+Teen,http://cdn.adultiptv.net/teen.m3u8
+Teen,http://live.redtraffic.xyz:80/teen.m3u8
+Threesome,http://live.redtraffic.xyz/threesome.m3u8
+Threesome,http://cdn.adultiptv.net/threesome.m3u8
+Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
